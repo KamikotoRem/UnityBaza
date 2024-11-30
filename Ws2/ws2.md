@@ -78,7 +78,8 @@
 
 ## Создал составной коллайдер цепи из десяти звеньев
 
-![7 2](https://github.com/user-attachments/assets/8beca30e-ff88-4557-8970-6b98c88c7c3f)
+![7 1](https://github.com/user-attachments/assets/ed459f48-5809-4104-a750-db004ab9c27f)
+
 
 
 1.8 Дайте развернутый ответ, как должны быть настроены компоненты Rigidbody и Collider звеньев цепи
